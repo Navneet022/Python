@@ -1,4 +1,4 @@
-                                                                              🌟 Python Projects Collection
+                                                              🌟 Python Projects Collection
 Welcome to my repository! 👋
 
 This is a collection of Python projects that I built while learning and exploring the Python programming language.
@@ -21,8 +21,8 @@ Each project represents a step forward in my learning journey, covering various 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  🧠 Why This Repo?
 
-  To track my learning milestones 📈
-  To share my journey with other learners 🤝
-  To improve my coding and problem-solving skills 💡
-  To showcase my growing expertise in Python 🐍
+  1. To track my learning milestones 📈
+  2. To share my journey with other learners 🤝
+  3. To improve my coding and problem-solving skills 💡
+  4. To showcase my growing expertise in Python 🐍
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
